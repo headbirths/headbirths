@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @headbirths
 - 👀 Here, I’m mainly interested in neuroscience, providing simple educational programs to help show how the brain works.
+- This is all in https://github.com/headbirths/neuro
+- There is also some machine learning and computational neuroscience stuff there.
 - 🌱 I’m currently learning ... about Spike Time-Dependent Plasticity
 - 💞️ I’m looking to collaborate on making these models better...
 - 📫 Reach me via https://headbirths.wordpress.com/
